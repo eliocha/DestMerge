@@ -1,6 +1,6 @@
 void funca()
 {
-  int ttt;
+  int zz;
 
 }
 void funcB()
