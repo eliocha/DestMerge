@@ -1,11 +1,12 @@
-void funca()
+int funca()
 {
   int zz;
+  return 10;
 
 }
-void funcB()
+int funcB()
 {
-
+  return 20;
 }
 
 
